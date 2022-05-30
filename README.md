@@ -20,3 +20,4 @@ A website with a minimal UI that can be used to take important notes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Screenshot
+![Screenshot (12)](https://user-images.githubusercontent.com/77232351/171050127-fab3c699-f8ee-40dc-8683-fbff7c7e49d7.png)
