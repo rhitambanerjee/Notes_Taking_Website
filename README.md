@@ -9,6 +9,10 @@
 
 A website with a minimal UI that can be used to take important notes.
 
+## Link
+https://notes-taking-website1.vercel.app
+
+
 ## Built With
 
 - HTML
